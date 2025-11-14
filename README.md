@@ -101,8 +101,8 @@ The project is deployed and accessible online. You can explore the live applicat
 
 ![image](https://github.com/user-attachments/assets/83fe50fe-7733-4a0d-bb00-aa46d2558aae)
 
-![image](https://github.com/user-attachments/assets/c69e6ea7-e110-4115-881c-aa9e85fc3cf9)
+
 
 ## 🤝 Contact
 
-- For queries: nikhilkorada7@gmail.com
+- For queries: tejakandula47@gmail.com
